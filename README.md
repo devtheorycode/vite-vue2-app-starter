@@ -14,4 +14,6 @@ L'utilisation de Vue.js 2 est rendu possible grâce au plugin [vite-plugin-vue2]
 
 Il vous suffit de faire un fork de ce projet, ou alors de cliquer sur le bouton "Use this template" qui fera quelque chose de similaire.
 
+Une fois le code sur votre machine, il ne restera plus qu'à intaller les dépendances (via `yarn` ou `npm i`) et de lancer la phase de développement (avec `yarn dev` ou `npm run dev`).
+
 _Bon codage !_
